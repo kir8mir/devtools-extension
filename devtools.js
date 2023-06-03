@@ -75,7 +75,7 @@ chrome.devtools.panels.elements.createSidebarPane(
       notEqualStyles = {};
       await runStylesRender();
 
-      currentSidebar.setPage();
+
     });
   }
 );
